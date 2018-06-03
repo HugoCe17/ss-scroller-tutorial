@@ -1,0 +1,19 @@
+{
+  "name": "sidescroller",
+  "version": "1.0.0",
+  "description": "simple side-scroller built with pixi.js / hapi.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hugo Cedano",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^17.5.1",
+    "inert": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
